@@ -6,12 +6,9 @@
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=igorrzinho&theme=xcode" />
 </div> 
  
-<!-- ./STAT -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=igorrzinho&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=444" alt="igorrzinho github stats" /> 
- 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrzinho&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=444" />
-</div>
+<a href="https://github.com/GustavoFelip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFelip&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFelip&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 <div align="center" width="90%">
  
@@ -27,8 +24,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### estudando no momento: 
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
@@ -37,8 +32,5 @@
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorrzinho&theme=black-ice&hide_border=true&stroke=000&background=444&ring=888&fire=eee&currStreakLabel=fff" alt="igorrzinho" /></div>
 
 <div align="center">
- 
- ![Snake animation](https://github.com/igorrzinho/igorrzinho/blob/output/github-contribution-grid-snake.svg)
-</div>
-
+ ![Snake animation](https://github.com/gustavofelip/gustavofelip/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
