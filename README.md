@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+Gustavo+Felipe;EU+APRENDO+===+PROGRAMAÇÃO+;BEM+VINDO+:%29)](https://git.io/typing-svg)
  
 <div align="center">
-   <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=igorrzinho&theme=xcode"/>
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=igorrzinho&theme=xcode"/>
 </div> 
  
 <a href="https://github.com/GustavoFelip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFelip&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFelip&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFelip&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 <div align="center" width="90%">
  
